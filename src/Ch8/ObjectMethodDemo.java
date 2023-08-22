@@ -21,7 +21,7 @@ class Mouse {
 
   @Override
   public String toString() {
-    return "제조사가" + name + "인 마우스입니다.";
+    return "제조사가" + name + "인 마우스입니다";
   }
 
   @Override
@@ -52,4 +52,4 @@ class Keyboard {
 
 
 }
-//
+
