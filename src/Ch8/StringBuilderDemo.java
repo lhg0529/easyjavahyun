@@ -6,7 +6,7 @@ public class StringBuilderDemo {
     System.out.println(s.hashCode());
     s = s + "!";
     System.out.println(s.hashCode());
-    // 다른 값이 나오므로 다른 개체를 의미한다
+    // 다른 값이 나오므로 다른 개체를 의미한다.
 
     StringBuilder sb = new StringBuilder("hello, world");
     System.out.println(sb.hashCode());
