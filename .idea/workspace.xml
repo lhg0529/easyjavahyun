@@ -4,22 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9068e5cc-c9bd-4d58-85e7-3672f1e325c7" name="Changes" comment="230822_1">
-      <change afterPath="$PROJECT_DIR$/src/ch9/BoxTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch9/CalendarTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch9/CheckedDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch9/CircleTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch9/ExceptionHandlingDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch9/GenericClass1Demo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch9/GenericTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch9/PersonTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch9/StudentTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch9/ThrowExceptionDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch9/ThrowsDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch9/Unchecked1Demo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch9/Unchecked2Demo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="9068e5cc-c9bd-4d58-85e7-3672f1e325c7" name="Changes" comment="230822_1" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
