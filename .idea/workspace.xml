@@ -5,6 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9068e5cc-c9bd-4d58-85e7-3672f1e325c7" name="Changes" comment="230824">
+      <change afterPath="$PROJECT_DIR$/src/ch10/FuntionalInterfaceDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch10/LambdaEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch11/Challenge3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch11/MapDemo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -46,13 +50,13 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.PerformanceDemo">
-    <configuration name="CircleTest (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch9.CircleTest" />
+  <component name="RunManager" selected="Application.FuntionalInterfaceDemo">
+    <configuration name="Challenge3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch11.Challenge3" />
       <module name="easyjavahyun" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ch9.*" />
+          <option name="PATTERN" value="ch11.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -60,12 +64,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CircleTest (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch9.CircleTest" />
+    <configuration name="FuntionalInterfaceDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch10.FuntionalInterfaceDemo" />
       <module name="easyjavahyun" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ch9.*" />
+          <option name="PATTERN" value="ch10.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -73,12 +77,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CircleTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch9.CircleTest" />
+    <configuration name="MapDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch11.MapDemo" />
       <module name="easyjavahyun" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ch9.*" />
+          <option name="PATTERN" value="ch11.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -114,11 +118,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FuntionalInterfaceDemo" />
+        <item itemvalue="Application.Challenge3" />
+        <item itemvalue="Application.MapDemo" />
         <item itemvalue="Application.PerformanceDemo" />
         <item itemvalue="Application.PersonTest" />
-        <item itemvalue="Application.CircleTest (2)" />
-        <item itemvalue="Application.CircleTest (1)" />
-        <item itemvalue="Application.CircleTest" />
       </list>
     </recent_temporary>
   </component>
