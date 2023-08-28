@@ -5,6 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9068e5cc-c9bd-4d58-85e7-3672f1e325c7" name="Changes" comment="230825">
+      <change afterPath="$PROJECT_DIR$/src/ch12/Array2StreamDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch12/Etc2StreamDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch12/Laziness1Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch12/Nation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch12/Optional1Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch12/ParallelDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch12/StreamDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch12/Util.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -30,6 +38,7 @@
 }</component>
   <component name="ProjectId" id="2UJwoV0TbrUVZuBRsRH1KDV63lk" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="false" id="Update" />
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectViewState">
@@ -46,13 +55,13 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.FuntionalInterfaceDemo">
-    <configuration name="Challenge3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch11.Challenge3" />
+  <component name="RunManager" selected="Application.Optional1Demo">
+    <configuration name="Array2StreamDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch12.Array2StreamDemo" />
       <module name="easyjavahyun" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ch11.*" />
+          <option name="PATTERN" value="ch12.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -60,12 +69,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FuntionalInterfaceDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch10.FuntionalInterfaceDemo" />
+    <configuration name="Etc2StreamDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch12.Etc2StreamDemo" />
       <module name="easyjavahyun" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ch10.*" />
+          <option name="PATTERN" value="ch12.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -73,12 +82,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MapDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch11.MapDemo" />
+    <configuration name="Laziness1Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch12.Laziness1Demo" />
       <module name="easyjavahyun" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ch11.*" />
+          <option name="PATTERN" value="ch12.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -86,12 +95,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PerformanceDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch11.PerformanceDemo" />
+    <configuration name="Optional1Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch12.Optional1Demo" />
       <module name="easyjavahyun" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ch11.*" />
+          <option name="PATTERN" value="ch12.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -99,12 +108,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PersonTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch9.PersonTest" />
+    <configuration name="ParallelDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch12.ParallelDemo" />
       <module name="easyjavahyun" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ch9.*" />
+          <option name="PATTERN" value="ch12.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -114,11 +123,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.FuntionalInterfaceDemo" />
-        <item itemvalue="Application.Challenge3" />
-        <item itemvalue="Application.MapDemo" />
-        <item itemvalue="Application.PerformanceDemo" />
-        <item itemvalue="Application.PersonTest" />
+        <item itemvalue="Application.Optional1Demo" />
+        <item itemvalue="Application.ParallelDemo" />
+        <item itemvalue="Application.Laziness1Demo" />
+        <item itemvalue="Application.Etc2StreamDemo" />
+        <item itemvalue="Application.Array2StreamDemo" />
       </list>
     </recent_temporary>
   </component>
